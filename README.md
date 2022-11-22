@@ -2,4 +2,4 @@
 
 ## Exercices in 🐍 **Python**
 
-## Plays in 🐍 **Python**
+## Game in 🐍 **Python**
