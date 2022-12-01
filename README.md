@@ -11,7 +11,7 @@
 
 
 
-# ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=EXERCÍCIOS&message=%20DESENVOLVIDOS&color=YELLOW&style=for-the-badge)
+# ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=EXERCÍCIOS&message=%20DESENVOLVIDOS&color=8B008B&style=for-the-badge)
 
 ### Exercices in ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&logoWidth=30)
 ### Game in ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&logoWidth=30)
