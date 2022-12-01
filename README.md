@@ -1,3 +1,4 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 #  <div align="center"> Back-End Projects </div>
 
 
@@ -8,6 +9,10 @@
  
 </div>
 
-## Exercices in 🐍 **Python**
 
-## Game in 🐍 **Python**
+
+# ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=EXERCÍCIOS&message=%20DESENVOLVIDOS&color=YELLOW&style=for-the-badge)
+
+### Exercices in ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&logoWidth=30)
+### Game in ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&logoWidth=30)
+
