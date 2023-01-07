@@ -18,6 +18,6 @@ Escreva mensagens no terminal cliente e observe se as mensagens estão chegando 
 
 <div align="center">
 
- <img src="" width="550px"/>
+ <img src="https://user-images.githubusercontent.com/71516100/211170056-e594be59-d902-4424-950a-9ea386ea0877.jpg" width="550px"/>
  
 </div>
