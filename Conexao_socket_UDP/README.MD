@@ -21,3 +21,10 @@ Escreva mensagens no terminal cliente e observe se as mensagens estão chegando 
  <img src="https://user-images.githubusercontent.com/71516100/211170056-e594be59-d902-4424-950a-9ea386ea0877.jpg" width="5050px"/>
  
 </div>
+
+## Refereências:
+
+#### diogobranquinho:
+https://github.com/diogobranquinho
+#### Karine Cunha YT:
+https://www.youtube.com/watch?v=_CKdUZGdxG4
