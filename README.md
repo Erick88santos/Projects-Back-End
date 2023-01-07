@@ -15,4 +15,5 @@
 
 ### Exercices in ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&logoWidth=30)
 ### Game in ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&logoWidth=30)
-
+### Game in ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&logoWidth=30)
+### Conection with ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&logoWidth=30)
